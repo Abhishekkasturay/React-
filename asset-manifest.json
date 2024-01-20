@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abhishekkasturay/React/static/css/main.d52ae1bf.css",
+    "main.js": "/Abhishekkasturay/React/static/js/main.d0441544.js",
+    "index.html": "/Abhishekkasturay/React/index.html",
+    "main.d52ae1bf.css.map": "/Abhishekkasturay/React/static/css/main.d52ae1bf.css.map",
+    "main.d0441544.js.map": "/Abhishekkasturay/React/static/js/main.d0441544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d52ae1bf.css",
+    "static/js/main.d0441544.js"
+  ]
+}
